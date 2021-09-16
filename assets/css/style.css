@@ -1,0 +1,38 @@
+body {
+  font-family: "Open Sans";
+}
+
+hr {
+  border: 1;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+
+.boldWeight {
+  font-weight: 600;
+}
+
+.lightWeight {
+  font-weight: 300;
+}
+
+.bgBlack {
+  background-color: black;
+}
+
+.bgColor {
+  background-color: #17a3b8;
+}
+
+.img-top {
+  height: 166px;
+}
+
+@media (max-width: 576px) {
+  .img-top {
+    height: 200px;
+  }
+}
